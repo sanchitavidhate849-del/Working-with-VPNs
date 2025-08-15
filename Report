@@ -1,0 +1,24 @@
+Report: VPN Setup and Privacy Test
+
+Date: [Enter Date]
+
+1. VPN Service Used: ProtonVPN (Free Tier)
+2. Setup Steps:
+   - Signed up for ProtonVPN free account
+   - Downloaded and installed VPN client on Windows
+   - Logged in and connected to a server in [Location]
+3. Verification:
+   - IP before VPN: [Original IP]
+   - IP after VPN: [Changed IP]
+   - Verified change via whatismyipaddress.com
+4. Encryption Test:
+   - Browsed multiple websites securely
+   - Confirmed HTTPS connection and encrypted tunnel
+5. Speed Test:
+   - Speed before VPN: [Mbps]
+   - Speed after VPN: [Mbps]
+   - Noted slight speed reduction due to encryption overhead
+6. Observations:
+   - Improved privacy and hidden IP
+   - Access to geo-restricted content
+   - Slightly slower browsing speed
